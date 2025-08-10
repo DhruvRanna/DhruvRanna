@@ -23,43 +23,26 @@
 </p>
 
 ---
-
-<!-- Performance Highlights -->
 ## 📈 Performance Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRanna&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRanna&theme=react-dark&hide_border=true&area=true" height="250"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRanna&bg_color=0d1117&color=ff6b6b&line=f37335&point=facc15&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=facc15" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=DhruvRanna&theme=tokyonight&hide_border=true&background=0d1117" height="160"/>
 </p>
 
 ---
 
-<!-- Featured Projects -->
 ## 🚀 Featured Work
-<div align="center">
-  
-| Project | Tech Stack | Live Demo | Repo |
-|---------|------------|-----------|------|
-| **Cloud API Builder** | ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
-| **UIX Hub** | ![React](https://skillicons.dev/icons?i=react) ![Typescript](https://skillicons.dev/icons?i=typescript) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
-| **Task Automator** | ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
-
-</div>
-
----
-
-<!-- Animated GitHub Trophy -->
-## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhruvRanna&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- Coding Activity Graph -->
-## ⏳ Weekly Coding Breakdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&layout=compact&theme=tokyonight" height="300" />
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvRanna&repo=project1&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvRanna&repo=project2&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  </a>
 </p>
 
 ---
