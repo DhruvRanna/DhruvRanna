@@ -10,11 +10,11 @@
 
 ---
 
-## 👨‍💻 Who I Am
-💡 **Passionate Freelance Software Developer** creating high-quality, scalable, and impactful solutions.  
-🚀 On a mission to join **Google** and contribute to products that reach billions.  
-🌱 Always exploring new tech stacks & modern design trends.
-
+## 👨‍💻 About Me
+💡 Passionate about creating impactful projects that solve real-world problems  
+🚀 Building scalable AI, automation, and software solutions
+🌱 Always exploring new technologies and contributing to open-source
+  
 ---
 
 ## 🛠️ Tech Arsenal
