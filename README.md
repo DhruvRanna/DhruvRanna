@@ -11,9 +11,9 @@
 ---
 
 ## 👨‍💻 About Me
-💡 Passionate about creating impactful projects that solve real-world problems  
-🌱 Always exploring new technologies and contributing to open-source
-🚀 Building scalable AI, automation, and software solutions
+💡 Passionate about creating impactful projects that solve real-world problems.  
+🌱 Always exploring new technologies and contributing to open-source.  
+🚀 Building scalable AI, automation, and software solutions. 
   
 ---
 
