@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhruv+Rana;Freelance+Software+Developer;Building+ProblemSolving+Software;Future+Google+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhruv+Rana;Freelance+Software+Developer;Building+Problem+Solving+Software;Future+Google+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- Sleek Gradient Banner -->
