@@ -24,20 +24,43 @@
 
 ---
 
+<!-- Performance Highlights -->
 ## 📈 Performance Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRanna&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRanna&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRanna&theme=react-dark&hide_border=true&area=true" height="250"/>
 </p>
 
 ---
 
+<!-- Featured Projects -->
 ## 🚀 Featured Work
-| Project Name | Tech Stack | Summary |
-|--------------|-----------|---------|
-| **Cloud API Builder** | Python, Docker | Highly scalable API with CI/CD. |
-| **UIX Hub** | React, TypeScript | Minimalist UI framework for startups. |
-| **Task Automator** | Python | Automated workflow tool for businesses. |
+<div align="center">
+  
+| Project | Tech Stack | Live Demo | Repo |
+|---------|------------|-----------|------|
+| **Cloud API Builder** | ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
+| **UIX Hub** | ![React](https://skillicons.dev/icons?i=react) ![Typescript](https://skillicons.dev/icons?i=typescript) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
+| **Task Automator** | ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git) | [🔗](https://your-demo-link.com) | [📂](https://github.com/your-repo) |
+
+</div>
+
+---
+
+<!-- Animated GitHub Trophy -->
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruvRanna&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- Coding Activity Graph -->
+## ⏳ Weekly Coding Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&layout=compact&theme=tokyonight" height="300" />
+</p>
 
 ---
 
