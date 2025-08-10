@@ -17,7 +17,7 @@
   
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,html,css,java,docker,react,nodejs,mongodb" />
 </p>
