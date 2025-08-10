@@ -37,11 +37,11 @@
 
 ## 🚀 Featured Work
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvRanna&repo=project1&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/_yrrdhruv/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=_yrrdhruv&repo=YOUR_REPO_1&theme=tokyonight&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvRanna&repo=project2&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/_yrrdhruv/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=_yrrdhruv&repo=YOUR_REPO_2&theme=tokyonight&bg_color=0d1117&hide_border=true" />
   </a>
 </p>
 
