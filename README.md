@@ -1,66 +1,62 @@
 <h1 align="center">Hi, I'm Dhruv 🚀</h1>
+<h3 align="center">Freelance Developer | AI & Automation Enthusiast | Open Source Contributor</h3>
 
-<p align="center">
-  <em>Freelance Developer | AI & Automation Enthusiast | Building Scalable Tech Solutions</em>
+---
+
+## 👋 About Me  
+- 💻 **Freelance Developer** building scalable AI, automation, and software solutions  
+- 🚀 Passionate about **impactful projects** that solve real-world problems  
+- 🔍 Always exploring **cutting-edge technologies** and contributing to open-source  
+- 🎯 Goal: Building innovative tech at **Google**  
+
+---
+
+## 🛠 Skills & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 👋 About Me
-- 💻 Freelance Developer with expertise in AI, Automation, and Scalable Software Systems.
-- 🚀 Passionate about **building impactful projects** that solve real-world problems.
-- 🔍 Always exploring **cutting-edge technologies** and contributing to open-source.
-- 🎯 Goal: Join a world-class team (like Google) to work on **innovative, large-scale solutions**.
+## 📌 Highlighted Projects  
+- 🔹 **AI Automation Tool** – Streamlines repetitive tasks using Python & AI  
+- 🔹 **React Dashboard** – Real-time analytics dashboard for business insights  
+- 🔹 **Dockerized Microservices** – Scalable backend with Node.js & Docker  
+*(Add your actual project links here for maximum impact)*  
 
 ---
 
-## 🛠 Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRanna&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=DhruvRanna&theme=radical" alt="GitHub Streak" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhruvRanna&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-## 🌱 Current Focus
-- Scaling **AI & automation solutions** for real-world applications.
-- Enhancing **system design skills** for large-scale distributed systems.
-- Mastering **cloud-native development** with AWS & Docker.
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.instagram.com/_yrrdhruv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rana-dhruv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Dhruvrana03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+## 🌍 Connect With Me  
+<p align="left">
+  <a href="https://www.instagram.com/_yrrdhruv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rana-dhruv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Dhruvrana03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg?username=DhruvRanna&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=DhruvRanna&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
