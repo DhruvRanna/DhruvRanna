@@ -1,56 +1,63 @@
-<!-- Header with Capsule-Render animation -->
+<!-- Header with Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I%27m%20Dhruv%20Rana%20%E2%9D%A4%EF%B8%8F&fontSize=45&animation=fadeIn" />
-</p>
-
-<h2 align="center">Freelance Developer | Building AI-powered & Automation Solutions</h2>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DhruvRanna&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1f21,100:0f2027&height=150&section=header&text=Hi%20I'm%20Dhruv%20Rana&fontSize=45&fontColor=ffffff" />
 </p>
 
 ---
 
-###  Skills & Tools
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-Hub-Flow-FF6F00.svg?style=for-the-badge&logo=git&logoColor=white)
-</p>
+##  About Me 🏗️
+I’m a passionate **Freelance Software Developer** crafting automation tools, scalable web applications, and clean code solutions.  
+My goal? Deliver impactful software with a clean, modern approach — the kind that catches Google's attention.
 
 ---
 
-###  GitHub Stats (Working)
+##  Skills & Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhruvRanna&show_icons=true&theme=radical" width="400" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhruvRanna&layout=compact&theme=radical" width="300" />
-</p>
+| Language / Tool | Proficiency |
+|------------------|-------------|
+| Python           | ────────────── |
+| TypeScript       | ───────────── |
+| HTML5            | ───────────── |
+| CSS3             | ───────────── |
+| Java             | ───────────── |
+| Docker           | ──────── |
+| Git & GitHub     | ───────────── |
+| VS Code / IDEs   | ───────────── |
 
----
-
-###  Connect with Me
-
-<p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yrrdhruv)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dhruv)
-  [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dhruvrana03)
-</p>
+*(Proficiency is relative — based on my experience building projects and learning best practices.)*
 
 ---
 
-###  Why It Works for “Google-ready” Applications:
+##  GitHub Stats & Contributions
 
-- **Animated header** gives a modern, polished first impression — recruiters immediately notice.  
-- **Skills section** clearly shows key languages: Python, TS, HTML, CSS, Java — focused and relevant.  
-- **Working stats cards** avoid errors and look clean.  
-- **Profile views badge** adds social-proof.  
-- **Freelance stance + project positioning** shows initiative and readiness to build impactful solutions.  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvRanna&show_icons=true&theme=radical&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRanna&theme=radical&hide_border=false&layout=compact)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DhruvRanna&theme=radical&hide_border=false)
 
+*(Ensure your username `DhruvRanna` is correct in the URLs above — this removes errors and shows live data.)*
+
+---
+
+##  Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Project A** | Scalable API built with Python & Docker, deployed to AWS — optimized for speed and cost. |
+| **Project B** | Interactive UI built using TypeScript + HTML5 + CSS3 — fully responsive and modern layout. |
+| **Automation Tool** | Workflow automation extension (Python) that streamlines daily developer tasks, shaves hours/week. |
+
+*(Pin your best repositories in GitHub — they’ll display under your profile’s pinned section.)*
+
+---
+
+##  Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yrrdhruv)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dhruv)  
+[![Twitter](https://img.shields.io/badge/X-Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dhruvrana03)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:1d1f21&height=80" />
+</p>
